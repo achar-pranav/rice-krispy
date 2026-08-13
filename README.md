@@ -1,2 +1,2 @@
 # rice-krispy
-A brochure and archive of the details to host the Club introductory stall at Aarohi
+As part of Aarohi 26', the club PESOS will be showcasing 5 Riced Linux laptops, basically fully customised and made aesthetic/magnificient. Ricing is the process where a user desperate about themes, fonts, customisability, look-and-feel of stuff, takes a step ahead with their Operating System and customises to the bits and pieces. This repo aims at building and preparing for that event! Would love to see you all there! :)
