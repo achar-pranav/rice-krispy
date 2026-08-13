@@ -31,9 +31,10 @@ Learn commands & workflow tricks from senior members to level up your terminal p
 Plaintext
 .
 ├── README.md           # You are here! High-level overview & showcase guide
-├── display-wall/       # Source code & visualizers for the 3x3 monitor wall
-├── stall-design/       # Posters, banners, printables, and sticker vector assets
-└── laptop-setups/      # Individual member setup configs & screenshots
+├── wall-display/       # Source code & visualizers for the 3x3 monitor wall
+├── poster-design/      # Posters, banners, printables, and sticker vector assets
+├── menu/               # Stall menus, pricing, and printed handouts
+└── ricers/             # Individual member setup configs & screenshots
     ├── <github-username>-<laptop-name>/
     │   ├── README.md   # System specs & demo commands cheat sheet
     │   └── desktop-ss.png
