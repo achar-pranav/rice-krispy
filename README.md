@@ -1,40 +1,36 @@
 # 🐧 pesOS Linux Showcase & Rice Gallery
 
-Welcome! This repository holds the source files, visual designs, and system configurations for our live Linux & Open Source Desktop Showcase.
+This repo is the source of truth for our live Linux & Open Source Desktop Showcase — everything from stall menu specs to wall display code to member setups lives here.
 
-Whether you're brand new to Linux or looking to break away from default desktop environments, this repo serves as a living archive of what's possible with open-source operating systems.
+## What is "Ricing"?
 
-## 🎨 What is "Ricing"?
+In the Linux community, "ricing" refers to deeply customizing the visual aesthetics and user interface of an operating system. Window managers, themes, color schemes, status bars, terminal aesthetics — it's about making your computer yours, tailored precisely to how you work and think.
 
-In the Linux community, "ricing" refers to deeply customizing the visual aesthetics and user interface of an operating system. This includes modifying:
+## What We're Doing
 
-- **Window Managers & DEs:** Changing how application windows behave, move, and stack (e.g., KDE, Hyprland, GNOME).
-- **Themes & Color Schemes:** Customizing system colors, icons, borders, and transparency/blur effects.
-- **Bar & Status Displays:** Custom docks and status bars showing system stats, workspace switchers, and audio visualizers.
-- **Terminal Aesthetics:** Custom CLI fetch tools, shell prompts, and keyboard-driven workflows.
+At our stall, attendees can test-drive custom Linux setups, watch a 3x3 monitor wall running terminal visualizers, grab cheat sheets on installing Linux, and learn terminal workflow tricks from senior members.
 
-It's all about making your computer yours—tailored precisely to how you work, think, and code.
-
-## 🚀 What We Have Planned for the Event
-
-At our stall, we are showcasing real laptops running custom Linux environments side-by-side. Freshers and attendees can come by to:
-
-- Test-drive custom setups live and see smooth animations, tiling window managers, and light-weight desktops in action.
-- Watch our 3x3 visual display wall running real-time, terminal-driven aesthetic visualizers.
-- Grab cheat sheets & guides on how to dual-boot or install Linux on your own hardware without breaking anything.
-- Learn commands & workflow tricks from senior members to level up your terminal productivity.
-
-## 📁 Repository Overview
+## 📁 Repository Structure
 
 ```
 .
-├── README.md           # You are here! High-level overview & showcase guide
-├── wall-display/       # Source code & visualizers for the 3x3 monitor wall
-├── poster-design/      # Posters, banners, printables, and sticker vector assets
-├── menu/               # Stall menus, pricing, and printed handouts
-└── ricers/             # Individual member setup configs & screenshots
-    ├── <github-username>-<laptop-name>/
-    │   ├── README.md   # System specs & demo commands cheat sheet
-    │   └── desktop-ss.png
-    └── ...
+├── README.md           # You are here
+├── MEMBERS.md          # Club members — PR your name to sign up
+├── wall-display/       # Source code & visualizers for the 3x3 monitor wall (WIP)
+├── poster-design/      # Posters, banners, menu PDF, sticker assets
+├── menu/               # Stall menu spec + selling material
+│   ├── menu.md         # Internal spec — stations, flow, content
+│   └── sell.md         # Hard sell talking points for the team
+└── ricers/             # Member setup tracking — one file per person
+    └── <name>.md       # Laptop, distro, WM, what you're demoing
 ```
+
+## How to Contribute
+
+**Have an idea?** Open a [GitHub Issue](../../issues) — demo concepts, menu suggestions, design ideas, anything.
+
+**Built something?** Open a Pull Request — implementations of ideas, member setup files, menu updates, visualizer code.
+
+**Adding your name?** PR your entry to `MEMBERS.md`.
+
+**Tracking your setup?** Create a file in `ricers/` with your details (use the template in that folder).
