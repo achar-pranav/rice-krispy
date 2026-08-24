@@ -31,6 +31,6 @@ At our stall, attendees can test-drive custom Linux setups, watch a 3x3 monitor 
 
 **Built something?** Open a Pull Request — implementations of ideas, member setup files, menu updates, visualizer code.
 
-**Adding your name?** PR your entry to `MEMBERS.md`.
+**Adding your name?** PR your entry to members/ as <your-name.md>
 
 **Tracking your setup?** Create a file in `ricers/` with your details (use the template in that folder).
