@@ -15,7 +15,7 @@ At our stall, attendees can test-drive custom Linux setups, watch a 3x3 monitor 
 ```
 .
 ├── README.md           # You are here
-├── MEMBERS.md          # Club members — PR your name to sign up
+├── members/            # Club members — PR your name to sign up
 ├── wall-display/       # Source code & visualizers for the 3x3 monitor wall (WIP)
 ├── poster-design/      # Posters, banners, menu PDF, sticker assets
 ├── menu/               # Stall menu spec + selling material
