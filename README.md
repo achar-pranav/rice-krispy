@@ -1,14 +1,10 @@
-# 🐧 pesOS Linux Showcase & Rice Gallery
+# 🐧 pesOS presents Rice-Krispies
 
-This repo is the source of truth for our live Linux & Open Source Desktop Showcase — everything from stall menu specs to wall display code to member setups lives here.
-
-## What is "Ricing"?
-
-In the Linux community, "ricing" refers to deeply customizing the visual aesthetics and user interface of an operating system. Window managers, themes, color schemes, status bars, terminal aesthetics — it's about making your computer yours, tailored precisely to how you work and think.
+This repo is the source of truth for our Open Source Desktop Showcase
 
 ## What We're Doing
 
-At our stall, attendees can test-drive custom Linux setups, watch a 3x3 monitor wall running terminal visualizers, grab cheat sheets on installing Linux, and learn terminal workflow tricks from senior members.
+At our stall, attendees can test-drive custom Linux setups, watch a TV running terminal visualizers and learn about Rice-Field the official linux install workshop.
 
 ## 📁 Repository Structure
 
@@ -16,13 +12,11 @@ At our stall, attendees can test-drive custom Linux setups, watch a 3x3 monitor 
 .
 ├── README.md           # You are here
 ├── members/            # Club members — PR your name to sign up
-├── wall-display/       # Source code & visualizers for the 3x3 monitor wall (WIP)
+├── wall-display/       # Visualizers for the TV
 ├── poster-design/      # Posters, banners, menu PDF, sticker assets
-├── menu/               # Stall menu spec + selling material
+├── menu/               # List of programs and scripts with screenshots
 │   ├── menu.md         # Internal spec — stations, flow, content
-│   └── sell.md         # Hard sell talking points for the team
-└── ricers/             # Member setup tracking — one file per person
-    └── <name>.md       # Laptop, distro, WM, what you're demoing
+│   └── sell.md         # Main talking points selling the club
 ```
 
 ## How to Contribute
@@ -33,4 +27,3 @@ At our stall, attendees can test-drive custom Linux setups, watch a 3x3 monitor 
 
 **Adding your name?** PR your entry to members/ as <your-name.md>
 
-**Tracking your setup?** Create a file in `ricers/` with your details (use the template in that folder).
