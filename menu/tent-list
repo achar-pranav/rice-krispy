@@ -1,6 +1,8 @@
+
+APEETIZERS
+
 fastfetch
 cmatrix
-
 nyancat
 pipes.sh
 btop
@@ -9,6 +11,8 @@ ls then sl
 jp2a
 take-pic
 
+
+MAIN COURSE
 
 bad apple
 termova
@@ -20,9 +24,16 @@ exit vim
 set upstream repo
 set flatpak remote
 
-
-
 FOR THE NERDS
 yazi or ranger
 tig
 lazy vim
+lazygit
+fzf
+typer
+s
+
+
+FOR THE MONITER
+
+lolcat rainbow
