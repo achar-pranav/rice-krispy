@@ -19,6 +19,7 @@ bad apple
 term-play
 mapscii
 madelbrot
+doom-cli
 
 DESSERT (challenges)
 exit vim
@@ -28,14 +29,16 @@ set flatpak remote
 FOR THE NERDS
 yazi or ranger
 tig
-lazy vim
+lazyvim
 lazygit
-fzf
-typer
+github-cli
+LKMS
+IRC
 
 
 
 FOR THE MONITER
 
 lolcat rainbow showing pesos + logo
+tplay script
 
