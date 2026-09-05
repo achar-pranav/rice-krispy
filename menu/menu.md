@@ -4,17 +4,11 @@ This is the technical mapping of the stall. Not a visual design — content only
 
 ---
 
-## The Pitch
-
-**Hook:** "You're running bloatware. We're here to show you the freedom you're missing."
-
-Walk in, ask what the stall is about. Reply: we are a cult of open source enthusiasts showing them the real freedom of Linux they've been missing on Windows/macOS.
-
-**Angle:** Every major OS ships with telemetry you can't disable, ads in your start menu, preinstalled apps you never asked for, and hardware constraints you didn't agree to. Linux gives all of that back to you.
+#CATCHY TITLE
 
 ---
 
-## Joke Pricing
+## Joke Pricing Exmaples
 
 | Item | Price |
 |------|-------|
@@ -25,57 +19,28 @@ Walk in, ask what the stall is about. Reply: we are a cult of open source enthus
 | Your Soul | Already Ours |
 
 ---
+Intro is the theme and showcase of the actual desktop, wallpaper, and vibes
 
-## Demo Stations
+then we open a terminal 
 
-### 1. Live Rice Demos
-- Multiple laptops running custom Linux setups side by side
-- Attendees walk up, touch, explore
-- Show smooth tiling animations, custom themes, keyboard-driven workflows
-- **Goal:** Visual wow factor. Make them go "wait, that's Linux?"
+Starts with Appetizers
+Then Main course, (these programs take a bit longer to demo)
+Lastly Dessert (challenges you can solve for stickers)
 
-### 2. Wall Display
-- 3x3 monitor wall running terminal-driven visualizers
-- Background aesthetic piece — draws people in from a distance
-- **Goal:** Crowd magnet. People see it from across the venue and walk over.
+#full list on menu/tentative-list
 
-### 3. Neovim vs VS Code
-- Same file, side-by-side, same machine
-- Open large files — show the latency difference
-- Show neovim startup time vs VS Code cold start
-- **Goal:** Shatter the myth that you need a bloated editor to be productive
+INSTRUCTIONS
 
-### 4. Resource Usage
-- `htop` side-by-side: Linux idle vs Windows idle
-- Compare RAM usage, CPU processes, disk usage
-- Show a fresh Windows install eating 4GB RAM doing nothing vs Linux at 400MB
-- **Goal:** concrete numbers. "Your laptop could last 3 more years on Linux."
+Simple instructions, 
+ex.,
 
-### 5. Full System Theming
-- Show one cohesive theme applied across: terminal, browser (Firefox CSS), GRUB, login screen, app launcher
-- Contrast with macOS/Windows where you're stuck with what Apple/Microsoft gives you
-- **Goal:** Show that every pixel is under your control
+type out the following words/ commands and see the magic happen,
+maybe a subtext with 3-4 words explaining what it does to foster interest
 
-### 6. Package Managers vs Bloat
-- `sudo apt install firefox` vs downloading a .exe from a website
-- Show package manager searching, updating, removing — all from terminal
-- Mention `brew` for macOS users — they can start using the terminal today
-- **Goal:** Show the old way of installing software is outdated and risky
+ex.
+NYANCAT
+a rainbow kitty 
 
----
+VIBE AND DESIGN REQUESTS
+Background and theme incorporate the club logo and color scheme,
 
-## Swag
-
-- **FOSS meme stickers** — "I use Arch btw", penguin logos, terminal humor
-- Hand these out at the stall. Let people take what they want.
-
----
-
-## Workshop CTA (End of Menu)
-
-**"Ready to ditch bloatware for real?"**
-
-We're running a hands-on Linux install workshop after the showcase.
-QR code / date / sign-up link goes here.
-
-*"We'll hold your hand through the whole install. No data loss. Promise."*
